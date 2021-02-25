@@ -86,8 +86,8 @@ def ask_rematch():
     else:
         ask_rematch()
 
+#Set variables to default and begin the game anew
 def restart():
-    #Set variables to default
     global rounds
     rounds = 0
     global round_count
