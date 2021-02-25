@@ -101,6 +101,10 @@ def restart():
 #Close the game
 def end():
     sys.exit(0)
+    
+    
 
+# THIS IS WHERE THE SCRIPT ACTUALLY TRIGGERS
+    
 print("=== Welcome to Rock, Paper, Scissors! ===")
 roundsetup()
